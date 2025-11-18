@@ -3,6 +3,6 @@
   "name": "ggsans",
   "previewText": "The default Discord font.",
   "main": {
-    "ggsans-Normal": "https://github.com/Hargers/ijo-pi-toki-pona/raw/main/ggsans-400-normal.otf"
+    "ggsans-Normal": "https://github.com/Hargers/ijo-pi-toki-pona/raw/refs/heads/main/kettu/ggsans-400-normal.otf?raw=1"
   }
 }
