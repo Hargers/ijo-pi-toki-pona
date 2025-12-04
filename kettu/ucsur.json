@@ -3,7 +3,7 @@
   "name": "nasin-nanpa",
   "previewText": "etbcors toki pona font, nasin nanpa tan anpa nanpa.",
   "main": {
-    "ABCGintoNord-ExtraBold": "hhttps://github.com/Hargers/ijo-pi-toki-pona/blob/main/kettu/abcgintonord-800-extrabold.otf?raw=1",
+    "ABCGintoNord-ExtraBold": "https://github.com/Hargers/ijo-pi-toki-pona/blob/main/kettu/abcgintonord-800-extrabold.otf?raw=1",
     "ggsans-Bold": "https://github.com/Hargers/ijo-pi-toki-pona/blob/main/kettu/ggsans-700-bold.otf?raw=1",
     "ggsans-BoldItalic": "https://github.com/Hargers/ijo-pi-toki-pona/blob/main/kettu/ggsans-700-bolditalic.otf?raw=1",
     "ggsans-ExtraBold": "https://github.com/Hargers/ijo-pi-toki-pona/blob/main/kettu/ggsans-800-extrabold.otf?raw=1",
