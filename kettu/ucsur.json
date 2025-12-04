@@ -1,25 +1,8 @@
 {
   "spec": 1,
-  "name": "nasin-nanpa",
-  "previewText": "etbcors toki pona font, nasin nanpa tan anpa nanpa.",
+  "name": "ggsans",
+  "previewText": "The default Discord font.",
   "main": {
-    "ABCGintoNord-ExtraBold": "https://github.com/Hargers/ijo-pi-toki-pona/blob/main/kettu/abcgintonord-800-extrabold.otf?raw=1",
-    "ggsans-Bold": "https://github.com/Hargers/ijo-pi-toki-pona/blob/main/kettu/ggsans-700-bold.otf?raw=1",
-    "ggsans-BoldItalic": "https://github.com/Hargers/ijo-pi-toki-pona/blob/main/kettu/ggsans-700-bolditalic.otf?raw=1",
-    "ggsans-ExtraBold": "https://github.com/Hargers/ijo-pi-toki-pona/blob/main/kettu/ggsans-800-extrabold.otf?raw=1",
-    "ggsans-ExtraBoldItalic": "https://github.com/Hargers/ijo-pi-toki-pona/blob/main/kettu/ggsans-800-extrabolditalic.otf?raw=1",
-  	"ggsans-Medium": "https://github.com/Hargers/ijo-pi-toki-pona/blob/main/kettu/ggsans-500-medium.otf?raw=1",
-  	"ggsans-MediumItalic": "https://github.com/Hargers/ijo-pi-toki-pona/blob/main/kettu/ggsans-600-semibolditalic.otf?raw=1",
-  	"ggsans-Normal": "https://github.com/Hargers/ijo-pi-toki-pona/blob/main/kettu/ggsans-400-normal.otf?raw=1",
-  	"ggsans-NormalItalic": "https://github.com/Hargers/ijo-pi-toki-pona/blob/main/kettu/ggsans-400-normalitalic.otf?raw=1",
-  	"ggsans-Semibold": "https://github.com/Hargers/ijo-pi-toki-pona/blob/main/kettu/ggsans-600-semibold.otf?raw=1",
-  	"ggsans-SemiboldItalic": "https://github.com/Hargers/ijo-pi-toki-pona/blob/main/kettu/ggsans-600-semibolditalic.otf?raw=1",
-  	"NotoSans-Bold": "https://github.com/Hargers/ijo-pi-toki-pona/blob/main/kettu/notosans-700-bold.otf?raw=1",
-  	"NotoSans-ExtraBold": "https://github.com/Hargers/ijo-pi-toki-pona/blob/main/kettu/notosans-800-extrabold.otf?raw=1",
-  	"NotoSans-Medium": "https://github.com/Hargers/ijo-pi-toki-pona/blob/main/kettu/notosans-500-medium.otf?raw=1",
-  	"NotoSans-Normal": "https://github.com/Hargers/ijo-pi-toki-pona/blob/main/kettu/notosans-400-normal.otf?raw=1",
-  	"NotoSans-NormalItalic": "https://github.com/Hargers/ijo-pi-toki-pona/blob/main/kettu/notosans-400-normalitalic.otf?raw=1",
-  	"NotoSans-Semibold": "https://github.com/Hargers/ijo-pi-toki-pona/blob/main/kettu/notosans-600-semibold.otf?raw=1",
-  	"SourceCodePro-Semibold": "https://github.com/Hargers/ijo-pi-toki-pona/blob/main/kettu/notosans-600-semibolditalic.otf?raw=1"
+    "ggsans-Normal": "https://github.com/Hargers/ijo-pi-toki-pona/raw/refs/heads/main/kettu/ggsans-400-normal.otf?raw=1"
   }
 }
